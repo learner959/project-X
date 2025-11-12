@@ -9,7 +9,7 @@ int main() {
 
     for (int i=2;i<a;i++){
         if(a%i==0){
-            cout<<"given number is not a prime number";
+            cout<<"given is not a prime number";
         }
     }
 }
